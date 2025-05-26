@@ -1,2 +1,0 @@
-# ECF-ManagementTool
-Final Project
